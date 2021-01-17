@@ -1,13 +1,13 @@
-![THOR BOT](https://telegra.ph/file/49bfca4376b68a8b1cb84.jpg)
+![ULTRA RED BOT](https://telegra.ph/file/92f797b2e3c97372e0af1.jpg)
 
-# THOR BOT
+# ULTRA RED BOT
 
-[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/opthorlog)
+[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/phantomredbot)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [THOR BOT](https://telegram.me/Opthor_bot).
+Can be found on telegram as [ULTRA RED BOT](https://telegram.me/UltraAlphaReD_BoT).
 
 The Support group can be reached out to at [THOR BOT Support](https://t.me/opthor), where you can ask for help about [THOR BOT Support](https://t.me/opthor), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
