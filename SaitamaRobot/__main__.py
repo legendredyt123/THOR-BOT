@@ -194,22 +194,22 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add THOR BOT to your group",
+                            text="☑️ Add Ultra Red to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Channel",
-                             url=f"https://t.me/opthorlog"),
+                             url=f"https://t.me/phantomredbot"),
                          InlineKeyboardButton(
                              text="Support Chat 🚑",
-                             url="https://t.me/opthor")
+                             url="https://t.me/hexaphantom")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🧑‍💻Developer🧑‍💻",
-                             url="https://t.me/souravkkkk")
+                             url="https://t.me/PhantomRedXD")
                      ],
                      [
                          InlineKeyboardButton(
