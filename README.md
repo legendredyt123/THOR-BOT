@@ -7,9 +7,9 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [ULTRA RED BOT](https://telegram.me/UltraAlphaReD_BoT).
+Can be found on telegram as [BLACK LEGEND BOT](http://t.me/BlackLegendUltra_Bot).
 
-The Support group can be reached out to at [THOR BOT Support](https://t.me/opthor), where you can ask for help about [THOR BOT Support](https://t.me/opthor), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [THOR BOT Support](https://t.me/blacklegend_bot), where you can ask for help about [THOR BOT Support](https://t.me/blacklegend_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
