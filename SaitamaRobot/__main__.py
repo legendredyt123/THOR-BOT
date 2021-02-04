@@ -59,7 +59,7 @@ You can find my list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Telegram Group Management Bot and help admins/owners manage their groups in easy way! Have a look at the following for an idea of some of \
+I'm a Telegram Group Management Bot and help admins/owners manage their groups in easy way! Have a look at the following for an idea of some of 
 the things I can help you with.
 
 *Main* commands available:
@@ -76,7 +76,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-THOR_IMG = "https://telegra.ph/file/92f797b2e3c97372e0af1.jpg"
+BLACK LEGEND_IMG = "https://telegra.ph/file/eb299db63ed308e352b3a.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -201,10 +201,10 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Channel",
-                             url=f"https://t.me/phantomredbot"),
+                             url=f"https://t.me/blacklegend_bot"),
                          InlineKeyboardButton(
                              text="Support Chat 🚑",
-                             url="https://t.me/hexaphantom")
+                             url="https://t.me/black_legend_support")
                      ],
                      [
                          InlineKeyboardButton(
