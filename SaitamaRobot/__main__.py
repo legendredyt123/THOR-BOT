@@ -76,7 +76,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-BLACK LEGEND_IMG = "https://telegra.ph/file/a5c5d23fdbae3c5896269.jpg"
+Phantom_IMG = "https://telegra.ph/file/a5c5d23fdbae3c5896269.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -194,7 +194,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Ultra Red to your group",
+                            text="☑️ Add Phantom to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
