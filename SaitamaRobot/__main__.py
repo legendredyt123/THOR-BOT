@@ -76,7 +76,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-BLACK LEGEND_IMG = "https://telegra.ph/file/eb299db63ed308e352b3a.jpg"
+BLACK LEGEND_IMG = "https://telegra.ph/file/a5c5d23fdbae3c5896269.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -201,10 +201,10 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Channel",
-                             url=f"https://t.me/blacklegend_bot"),
+                             url=f"https://t.me/t.me/PhantomRedXD"),
                          InlineKeyboardButton(
                              text="Support Chat 🚑",
-                             url="https://t.me/black_legend_support")
+                             url="https://t.me/")
                      ],
                      [
                          InlineKeyboardButton(
